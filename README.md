@@ -29,3 +29,4 @@ Data processing & basic analytics
 ✔ Automatic grade calculation
 
 
+<img width="1019" height="391" alt="Screenshot 2026-02-27 225815" src="https://github.com/user-attachments/assets/ac69fb16-a3c9-4352-b850-993ab314274c" />
